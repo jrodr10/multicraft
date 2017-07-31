@@ -1,2 +1,8 @@
 # Nukkit-multicraft-config
-based from https://github.com/ClearSkyTeam/MulticraftConfig
+Based on https://github.com/ClearSkyTeam/MulticraftConfig
+
+# How to use?
+Turn to [http://www.multicraft.org/](official website of multicraft).
+
+# Thanks
+@haniokasai
