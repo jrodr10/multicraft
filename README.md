@@ -2,7 +2,8 @@
 Based on https://github.com/ClearSkyTeam/MulticraftConfig
 
 # How to use?
-Turn to [http://www.multicraft.org/](official website of multicraft).
+Turn to [website of multicraft](http://www.multicraft.org/).
+Sometimes, *turning language to English* is required to prevent some bugs.
 
 # Thanks
 @haniokasai
