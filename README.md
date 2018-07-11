@@ -1,9 +1,4 @@
-# Nukkit-multicraft-config
-Based on https://github.com/ClearSkyTeam/MulticraftConfig
+# Nukkit Multicraft configuration
 
-# How to use?
-Turn to [website of multicraft](http://www.multicraft.org/).
-Sometimes, *turning language to English* is required to prevent some bugs.
-
-# Thanks
-@haniokasai
+## How to use?
+Take a look through the [Multicraft documentation](http://www.multicraft.org/site/docs/howto#9) on installing custom jar configurations.
